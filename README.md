@@ -1,5 +1,5 @@
 # Pusher
-Simple Pusher server and client
+Simple Pusher server and client.
 
 ## How to use
 
