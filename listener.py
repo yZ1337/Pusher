@@ -2,8 +2,8 @@ import pusherclient
 import time
 
 # Pusher credentials
-app_key = '3c16203f5e43994b9acf'
-cluster = 'eu'
+app_key = 'APP_KEY'
+cluster = 'CLUSTER'
 
 
 # Define a callback for connection success
